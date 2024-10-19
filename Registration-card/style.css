@@ -1,0 +1,68 @@
+body{
+    background-color: rgba(79, 19, 19, 0.741);
+    display: flex;
+    align-items: center;
+    padding-left:500px;
+    padding-right: 500px;
+    
+}
+
+.my-div{
+    height: 300px;
+    width: 900px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    .h1{
+        padding-left: 300px;
+    }
+    
+}
+.p1{
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   
+   } 
+
+
+.p2{
+    padding: 10px 10px 10px 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.p3{
+    padding: 10px 10px 10px 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.p4{
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.p5{
+   padding: 10px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   
+}
+
+button{
+    margin-right: 160px;
+    padding: 10px 80px 10px 80px  ;
+    color: #fff;
+    background-image: linear-gradient(to left,#ffc312,#ff0000) ;
+}
+label{
+    margin: 10px;
+    padding: 200PX 10PX 200PX 10PX;
+}
+
+
+
+
+
+
+
+
